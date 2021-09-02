@@ -2,3 +2,31 @@
     margin: 0;
     padding: 0;
 }
+
+h1 {
+    color: #21243d;
+    display: flex;
+    text-align: center;
+
+    width: 312px;
+    height: 120px;
+    padding: 18px;
+    margin: 10px;
+
+    font-family: "heebo", sans-serif, monospace;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+p {
+    display: flex;
+    text-align: center;
+
+    width: 328px;
+    height: 96px;
+    font-family: "heebo", sans-serif, monospace;
+    font-weight: 400;
+    font-size: 16px;
+
+}
