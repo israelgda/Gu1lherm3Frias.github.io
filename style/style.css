@@ -6,6 +6,10 @@ html {
     background: #E5E5E5;
 }
 
+body {
+    width: 100%;
+}
+
 img {
     position: absolute;
     width: 174px;
