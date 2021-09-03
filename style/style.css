@@ -10,41 +10,45 @@ body {
     width: 100%;
 }
 
-img {
-    position: absolute;
+.container{
+    width: 100%;
     margin: auto;
+}
+
+.imgs{
     width: 174px;
     height: 180px;
-    left: 97px;
-    top: 83px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+img {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    margin-bottom: 10px;
 }
 
 h1 {
     margin: auto;
-    position: absolute;
+    margin-bottom: 10px;
     color: #21243d;
-    position: absolute;
     width: 312px;
     height: 120px;
-    left: 32px;
-    top: 297px;
     font-family: "heebo", sans-serif, monospace;
     font-weight: 700;
     font-size: 32px;
     line-height: 40px;
+    text-align: justify;
 }
 
 p {
     margin: auto;
+    margin-bottom: 10px;
     color: #21243d;
-
-    position: absolute;
     width: 328px;
-    height: 96px;
-    left: 24px;
-    top: 438px;
+    height: 100%;
     font-family: "heebo", sans-serif, monospace;
     font-weight: 400;
     font-size: 16px;
-
+    text-align: justify;
 }
