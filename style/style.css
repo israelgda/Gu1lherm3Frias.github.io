@@ -8,6 +8,7 @@ html {
 
 img {
     position: absolute;
+    margin: auto;
     width: 174px;
     height: 180px;
     left: 97px;
@@ -15,6 +16,7 @@ img {
 }
 
 h1 {
+    margin: auto;
     position: absolute;
     color: #21243d;
     position: absolute;
@@ -29,6 +31,7 @@ h1 {
 }
 
 p {
+    margin: auto;
     color: #21243d;
 
     position: absolute;
